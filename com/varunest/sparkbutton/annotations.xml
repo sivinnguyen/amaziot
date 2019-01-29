@@ -1,0 +1,5 @@
+<root>
+    <item name='com.varunest.sparkbutton.SparkEventListener'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
