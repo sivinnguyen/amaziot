@@ -1,7 +1,7 @@
 # amaziot
 Control LED via Internet by Amazfit Pace Smartwatch
 
-[![amaziot demo](https://gifs.com/gif/controls-led-via-internet-by-amazfit-pace-watch-and-firebase-7127Dr)](https://youtu.be/jVNKsETxgyg)
+[![amaziot demo](amaziot_demo.gif)](https://youtu.be/jVNKsETxgyg)
 
 
 Libraries:
